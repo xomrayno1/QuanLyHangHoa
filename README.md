@@ -1,2 +1,2 @@
-# QuanLyThietBiComplete
+# QuanLyThietBi-Complete
 the last
